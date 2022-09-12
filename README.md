@@ -8,4 +8,4 @@
 falx00h/falx00h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![">a<img "](https://avatars.githubusercontent.com/u/92805783?s=40&v=%0d%0aContent-Length:%200%0d%0a%0d%0aHTTP/1.1%20200%20OK%0d%0aContent-Type:%20text/html%0d%0aContent-Length:%2025%0d%0a%0d%0a%3Cscript%3Ealert(1)%3C/script%3E")
+![">a<img "](https://avatars.githubusercontent.com/u/92805783?s=40&v=\n\r")
