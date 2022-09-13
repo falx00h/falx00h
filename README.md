@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v="/><div title="javascript\x00:javascript:alert(1)" name=";javascript\x00:javascript:alert(1)" id="javascript:alert(3)" value="javascript:alert(4)" dir="javascript:alert(5)" coords="javascript:alert(6)" color="javascript:alert(7)" onblur="" ondrag="">div</div>](()
-<![><img src="]><img src=x onerror=javascript:alert(1)//">
+![<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v="/><div><? foo="><script>javascript:alert(1)</script>"></div>](()
+<? foo="><script>javascript:alert(1)</script>">
