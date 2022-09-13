@@ -7,6 +7,6 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
-<isindex onclick="javascript&colon;confirm(1)" />
-<ishtml>
+
+<input type="text" value=`` <div/onmouseover='alert(1)'>X</div>
 ](()
