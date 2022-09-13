@@ -8,5 +8,5 @@
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
 
-<span value=``<div/onmouseover='alert(1)'>X</div></span>
+<span value=``><div/onmouseover='alert(1)'>X</div></span>
 ](()
