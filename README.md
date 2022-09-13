@@ -4,6 +4,6 @@
 
 <img id="meu" src=""></div>
 <div id="${1+1}">bbbb</div>
-<span value="javascript:document.getElementById('user-content-meu').src='123';">aaa</span>
+
 
 ](()
