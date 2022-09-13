@@ -8,6 +8,6 @@
 ![
 
 <img src="../../../../../../../\r89shi.github.io/teste.js" alt="\b\<SCRIPT>alert()</SCRIPT>">
-<img src="../../../../../../../\www.google.com.br" >
+<img src="../../../../../../../\www.google.com.br?javascript:alert('XSS')" >
 
 ](()
