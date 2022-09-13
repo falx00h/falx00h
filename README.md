@@ -7,6 +7,6 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
 
-<img src="https://avatars.githubusercontent.com/u/92805783?s=40<SCRIPT>alert()</SCRIPT>" alt=<SCRIPT>alert()</SCRIPT>>
+<img src="https://avatars.githubusercontent.com/u/92805783?s=40<SCRIPT>alert()</SCRIPT>" alt="<SCRIPT>alert()</SCRIPT>">
 
 ](()
