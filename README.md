@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![text](../../../../../../../r89shi/r89shi.github.io/blob/master/teste.js)
 ![
 
-<img src=../../../../../../../r89shi/r89shi.github.io/blob/master/teste.js >
+<img src=''>
 
 ](()
