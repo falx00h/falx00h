@@ -1,1 +1,1 @@
-<img src="https://r89shi.github.io/teste.js" type="text/plain">
+<img src="https://github.com/r89shi/r89shi.github.io/blob/master/teste.js?raw=true" type="text/javascript">
