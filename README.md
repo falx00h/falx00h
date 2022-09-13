@@ -1,1 +1,1 @@
-<img src="../../../../../../r89shi/r89shi.github.io/blob/master/123.png" >
+<img src="../../../../../../r89shi/r89shi.github.io/blob/master/123.png" type="text/javascript">
