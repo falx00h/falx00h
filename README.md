@@ -6,7 +6,7 @@
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
-
+<img src='' alt=''>
 <IMG SRC= img/%3cscript+onload='https://r89shi.github.io/teste.js'%3e >
 
 ](()
