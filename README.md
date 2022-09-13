@@ -6,5 +6,5 @@
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
-<div dir="<img src= onerror=alert(1)>">a</div>
+<div dir=<img src='' onerror=alert(1)>>a</div>
 ](()
