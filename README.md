@@ -8,6 +8,6 @@
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v="/>
 
-<div dir="*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(1))}">aaaa*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(1))}</div>
+<div color="" background="" image="" url="" href="" rel="">aaaa*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(1))}</div>
 
 ](()
