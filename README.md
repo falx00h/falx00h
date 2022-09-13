@@ -8,5 +8,6 @@
 ![
 
 <img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>"\>
 
 ](()
