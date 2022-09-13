@@ -1,7 +1,6 @@
 ![
 
-exp/*<A STYLE='no\xss:noxss("*//*");
-xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
+exp/*<img src='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 
 
 ](()
