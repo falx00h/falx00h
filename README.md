@@ -4,26 +4,13 @@
 
 <img src="function(){alert();}()">
 
-<h1>The quadratic formula</h1>
-  <p>
-   <math>
-    <mi>x</mi>
-    <mo>=</mo>
-    <mfrac>
-     <mrow>
-      <mo form="function(){alert();}()">−</mo> <mi>b</mi>
-      <mo>±</mo>
-      <msqrt>
-       <msup> <mi>b</mi> <mn>2</mn> </msup>
-       <mo>−</mo>
-       <mn>"function(){alert();}()</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi>
-      </msqrt>
-     </mrow>
-     <mrow>
-      <mn>2</mn> <mo>⁢</mo> <mi>a</mi>
-     </mrow>
-    </mfrac>
-   </math>
-  </p>
+<map name="shapes">
+  <area shape=rect coords="50,50,100,100"> <!-- the hole in the red box -->
+  <area shape=rect coords="25,25,125,125" href="red.html" alt="Red box.">
+  <area shape=circle coords="200,75,50" href="green.html" alt="Green circle.">
+  <area shape=poly coords="325,25,262,125,388,125" href="blue.html" alt="Blue triangle.">
+  <area shape=poly coords="450,25,435,60,400,75,435,90,450,125,465,90,500,75,465,60"
+        href="yellow.html" alt="Yellow star.">
+ </map>
 
 ](()
