@@ -8,6 +8,6 @@
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v="/>
 
-<img src="`${<script>javascript:alert(1)</script>}`">
+<img rel="<script>javascript:alert(1)</script>" target="a" link="s" style="a" onclick"a">
 
 ](()
