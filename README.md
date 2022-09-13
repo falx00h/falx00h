@@ -7,7 +7,7 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
-<img src="xss&#58;ex&#x2F;*XSS*//*/*/pression(alert(1))'&gt;" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
+<img src="xss&#58;ex&#x2F;*XSS*//*/*/pression(alert(1))'&gt;" alt="xss&#58;ex&#x2F;*XSS*//*/*/pression(alert(1))'&gt;"/>
 
 
 ](()
