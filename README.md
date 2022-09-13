@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![<img src="avatars.githubusercontent.com/u/92805783?s=40&v=4https://r89shi.github.io/teste.js" title="okggle" />](<input value="<a>link2</a>">link</span>|https://avatars.githubusercontent.com/u/92805783?s=40&v=4()
+![<img src="4https://avatars.githubusercontent.com/u/92805783?s=40&v=4https://r89shi.github.io/teste.js" title="okggle" />](<input value="<a>link2</a>">link</span>|https://avatars.githubusercontent.com/u/92805783?s=40&v=4()
