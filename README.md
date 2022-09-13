@@ -8,6 +8,6 @@
 ![
 
 <img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
-<src='../../../../../../../r89shi/gitbook.fluig.snippets/blob/main/README.md' >
+<img src='../../../../../../../r89shi/gitbook.fluig.snippets/blob/main/README.md' >
 
 ](()
