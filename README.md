@@ -2,7 +2,7 @@
 
 <img src="../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js">
 
-<a href="//<title>nova</title>/,javascript:alert(1)</title>//#">XXX</a>
+<a href="//alert(2)/,javascript:alert(1)</title>//#">XXX</a>
 
 <img id="meu" src="" tabindex=&#60;&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#41;></div>
 <div id="${1+1}">bbbb</div>
