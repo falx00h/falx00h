@@ -7,7 +7,7 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
 
-<img src="../../../../../../../%00https://www.google.com.br" alt="<SCRIPT>alert()</SCRIPT>">
+<img src="../../../../../../../%0D%0Chttps://www.google.com.br" alt="<SCRIPT>alert()</SCRIPT>">
 <img src='../../../../../../../r89shi/gitbook.fluig.snippets/blob/main/README.md' >
 
 ](()
