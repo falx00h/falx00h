@@ -16,7 +16,7 @@
       <msqrt>
        <msup> <mi>b</mi> <mn>2</mn> </msup>
        <mo>−</mo>
-       <mn>4</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi>
+       <mn>function(){alert();}()</mn> <mo>⁢</mo> <mi>a</mi> <mo>⁢</mo> <mi>c</mi>
       </msqrt>
      </mrow>
      <mrow>
