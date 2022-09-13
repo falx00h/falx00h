@@ -6,4 +6,4 @@
 
 
 ](()
-![a](../../../../../../../img/onload/../../\github.com/r89shi/r89shi.github.io/blob/master/teste.js)
+![a](../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js)
