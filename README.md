@@ -7,7 +7,7 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
-<img src=-eval("window['pro'%2B'mpt'](8)")- alt="1script3document.vulnerable=true;1/script3"/>
+<img src="" -eval("window['pro'%2B'mpt'](8)")- alt="1script3document.vulnerable=true;1/script3"/>
 
 <![CDATA[<script>var n=0;while(true){n++;}</script>]]>
 
