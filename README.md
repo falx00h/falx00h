@@ -7,8 +7,8 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
-<img src="#<frameset onload=alert(123)>&{document.vulnerable=true;};" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
+<img src="1script3document.vulnerable=true;1/script3" alt="1script3document.vulnerable=true;1/script3"/>
 
-<<SCRIPT>document.vulnerable=true;//<</SCRIPT>
+1script3document.vulnerable=true;1/script3
 
 ](()
