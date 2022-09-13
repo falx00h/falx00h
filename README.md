@@ -1,6 +1,7 @@
 ![
 
-<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+exp/*<A STYLE='no\xss:noxss("*//*");
+xss:ex/*XSS*//*/*/pression(alert("XSS"))'>
 
 
 ](()
