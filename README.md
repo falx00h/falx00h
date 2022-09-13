@@ -1,6 +1,6 @@
 ![
 
-<META HTTP-EQUIV="Link" Content="<http://xss.rocks/xss.css>; REL=stylesheet">
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
 
 
 ](()
