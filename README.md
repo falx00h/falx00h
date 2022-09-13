@@ -7,6 +7,6 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
 
-<img src=../../../../../../../\r89shi/r89shi.github.io/blob/master/ok.jpg >
+<img src=../../../../../../../r89shi/r89shi.github.io/blob/master/ok.jpg >
 
 ](()
