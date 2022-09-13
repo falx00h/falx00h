@@ -8,6 +8,6 @@
 ![
 
 <img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
-<IMG """><SCRIPT>alert("XSS")</SCRIPT>"\>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
 
 ](()
