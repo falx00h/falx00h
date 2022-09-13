@@ -9,7 +9,7 @@
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
 <img src="#<frameset onload=alert(123)>" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
-<img src="https://github.com/r89shi/r89shi.github.io/master/teste.js" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
+<img src="https://github.com/r89shi/r89shi.github.io/blob/master/favicon.png" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
 <div dir=autofocus/onfocus=alert()>
   <isindex>
