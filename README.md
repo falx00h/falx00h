@@ -7,5 +7,7 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
-<form><isindex formaction="javascript&colon;confirm(1)"></form>
+<isindex formaction="javascript&colon;confirm(1)" />
+  
+<%<!--'%><script>alert(1);</script -->
 ](()
