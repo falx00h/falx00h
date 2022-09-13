@@ -11,6 +11,7 @@
 
 <comment><img src="</comment><img src=x onerror=<![<!--]]<script>document.vulnerable=true;//--></script>">
 
-
+<div datafld="b" dataformatas="html" datasrc="#X"></div>
+[\xC0][\xBC]script>document.vulnerable=true;[\xC0][\xBC]/script>
 
 ](()
