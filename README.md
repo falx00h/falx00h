@@ -8,6 +8,6 @@
 ![
 
 <img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
-<IMG SRC= ../../../../../../img/r89shi.github.io/teste.js >
+<IMG SRC= ../../../../../../../img/r89shi.github.io/teste.js >
 
 ](()
