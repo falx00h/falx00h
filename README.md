@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=javascript:alert(1)" title="okggle" /><html onMouseOut html onMouseOut="javascript:javascript:alert(1)"></html onMouseOut>](()
+![<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=javascript:alert(1)" title="okggle" /><object onError object onError="javascript:javascript:alert(1)"></object onError>](()
