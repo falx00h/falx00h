@@ -8,8 +8,8 @@
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
 <img src="<frameset onload=alert(123)>" alt="<frameset onload=alert(123)>"/>
-<div>
-  <isindex/autofocus/onfocus=alert()>
+<div/autofocus/onfocus=alert()>
+  <isindex>
 </div>
 
 ](()
