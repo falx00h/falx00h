@@ -1,8 +1,6 @@
 ![
 
-<img src="livescript:alert()" LOWSRC="" src="">
-
-<div BACKGROUND="" src=http://xss.rocks/scriptlet.html>a</div>
+<META HTTP-EQUIV="Link" Content="<http://xss.rocks/xss.css>; REL=stylesheet">
 
 
 ](()
