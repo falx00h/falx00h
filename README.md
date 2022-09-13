@@ -8,6 +8,6 @@
 ![
 
 <img src="../../../../../../../\r89shi.github.io/teste.js" alt="\b\<SCRIPT>alert()</SCRIPT>">
-<img src='../../../../../../../r89shi/gitbook.fluig.snippets/blob/main/README.md' >
+<img src='https://github.com/r89shi/r89shi.github.io/blob/master/teste.js' >
 
 ](()
