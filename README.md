@@ -9,11 +9,6 @@
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
 <img src="#<frameset onload=alert(123)>" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
-<img src="https://www.<script>alert(1)</script.com" onselect="alert(String.fromCharCode(88,83,83))"/>
-
-
-<div dir=autofocus/onfocus=alert()>
-  <isindex>
-</div>
+<comment><img src="</comment><img src=x onerror=javascript:alert(1))//">
 
 ](()
