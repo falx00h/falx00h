@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![<var src="https://avatars.githubusercontent.com/u/92805783?s=40&v=4" title="Titulo" />](https://avatars.githubusercontent.com/u/92805783?s=40&v=|onerror='alert(<img src= onerror=alert()>'))
+![<var src="https://avatars.githubusercontent.com/u/92805783?s=40&v=4" title="Titulo" />](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
