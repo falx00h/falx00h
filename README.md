@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![</scrip</script>t><img src =q onerror=prompt(8)><img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=javascript:alert(1)" title="okggle" />](${1+1}()
+![<script\x20type="text/javascript">javascript:alert(1);</script> <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=javascript:alert(1)" title="okggle" />](${1+1}()
