@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&v=4)
-![<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" \onerror="javascript:alert(1)" /><div title="" name="" id="" value="" dir="v" content="" controls="" data="" coords="" color="" class="" bgcolor="">div</div>](()
+![<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v="/><div title="javascript:alert(1)" name="javascript:alert(2)" id="javascript:alert(3)" value="javascript:alert(4" dir="javascript:alert(5" coords="javascript:alert(6" color="javascript:alert(7" >div</div>](()
