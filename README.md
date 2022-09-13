@@ -1,5 +1,5 @@
 ![
 
-<img src=https://github.com/r89shi/r89shi.github.io/blob/master/123.png>
+<img src=img/onload=https://github.com/r89shi/r89shi.github.io/blob/master/teste.js
 
 ](()
