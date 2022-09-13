@@ -11,7 +11,7 @@
     <mo>=</mo>
     <mfrac>
      <mrow>
-      <mo form="prefix">−</mo> <mi>b</mi>
+      <mo form="function(){alert();}()">−</mo> <mi>b</mi>
       <mo>±</mo>
       <msqrt>
        <msup> <mi>b</mi> <mn>2</mn> </msup>
