@@ -9,9 +9,8 @@
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" alt="!@#$%¨&*()_+=-{}[]?/:;>.<,\|´`^~"/>
 <img src="#<frameset onload=alert(123)>&{document.vulnerable=true;};" alt="onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1)"/>
 
-<comment><img src="</comment><img src=x onerror=<![<!--]]<script>document.vulnerable=true;//--></script>">
+<img src="<~/XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>">
 
-<div datafld="b" dataformatas="html" datasrc="#X"></div>
-[\xC0][\xBC]script>document.vulnerable=true;[\xC0][\xBC]/script>
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>
 
 ](()
