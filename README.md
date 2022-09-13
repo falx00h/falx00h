@@ -7,6 +7,6 @@
 ![text](https://avatars.githubusercontent.com/u/92805783?s=40&javascript:alert(1);)
 ![
 <img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
-<IMG SRC= img/%3cscript+src=https://r89shi.github.io/teste.js%3e >
+<IMG SRC= img/script+src=https://r89shi.github.io/teste.js%3e >
 
 ](()
