@@ -9,5 +9,5 @@
 
 <img src="JaVaScRiPt:alert('XSS')" alt="<SCRIPT>alert()</SCRIPT>">
 <IMG SRC= ../../../../../../../r89shi/r89shi.github.io/blob/master/teste.js >
-<IMG SRC= ../../../../../../../https://r89shi.github.io/teste.js >
+
 ](()
