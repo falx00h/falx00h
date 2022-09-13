@@ -11,6 +11,6 @@
 
 <img src="<~/XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>">
 
-<;!--[if gte IE 4]>;
+<!--[if gte IE 4]>;
 
 ](()
