@@ -2,4 +2,4 @@
 javascript&colon;alert281%29
 <div dir="X&colon;Xj&NewLine;1&NewLine;<img src='' onerror='alert()'>">j&Tab;</div>
 
-<img src="&quot; onerror='alert()'&quot;">
+<img src=&quot;"&NewLine; onerror='alert()' &NewLine;"&quot;>
